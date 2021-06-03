@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/clubhouse-clone/static/css/main.961297b9.chunk.css",
+    "main.js": "/clubhouse-clone/static/js/main.e9691831.chunk.js",
+    "main.js.map": "/clubhouse-clone/static/js/main.e9691831.chunk.js.map",
+    "runtime-main.js": "/clubhouse-clone/static/js/runtime-main.ad6ddde1.js",
+    "runtime-main.js.map": "/clubhouse-clone/static/js/runtime-main.ad6ddde1.js.map",
+    "static/css/2.049be610.chunk.css": "/clubhouse-clone/static/css/2.049be610.chunk.css",
+    "static/js/2.85e22b0f.chunk.js": "/clubhouse-clone/static/js/2.85e22b0f.chunk.js",
+    "static/js/2.85e22b0f.chunk.js.map": "/clubhouse-clone/static/js/2.85e22b0f.chunk.js.map",
+    "static/js/3.a78bf282.chunk.js": "/clubhouse-clone/static/js/3.a78bf282.chunk.js",
+    "static/js/3.a78bf282.chunk.js.map": "/clubhouse-clone/static/js/3.a78bf282.chunk.js.map",
+    "index.html": "/clubhouse-clone/index.html",
+    "static/css/2.049be610.chunk.css.map": "/clubhouse-clone/static/css/2.049be610.chunk.css.map",
+    "static/css/main.961297b9.chunk.css.map": "/clubhouse-clone/static/css/main.961297b9.chunk.css.map",
+    "static/js/2.85e22b0f.chunk.js.LICENSE.txt": "/clubhouse-clone/static/js/2.85e22b0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad6ddde1.js",
+    "static/css/2.049be610.chunk.css",
+    "static/js/2.85e22b0f.chunk.js",
+    "static/css/main.961297b9.chunk.css",
+    "static/js/main.e9691831.chunk.js"
+  ]
+}
